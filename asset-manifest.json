@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bledned/static/css/main.7acaea2f.css",
+    "main.js": "/bledned/static/js/main.07d3183d.js",
+    "index.html": "/bledned/index.html",
+    "main.7acaea2f.css.map": "/bledned/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/bledned/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
